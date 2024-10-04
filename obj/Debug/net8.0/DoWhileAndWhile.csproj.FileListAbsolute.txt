@@ -1,0 +1,14 @@
+D:\C#\DoWhileAndWhile\bin\Debug\net8.0\DoWhileAndWhile.exe
+D:\C#\DoWhileAndWhile\bin\Debug\net8.0\DoWhileAndWhile.deps.json
+D:\C#\DoWhileAndWhile\bin\Debug\net8.0\DoWhileAndWhile.runtimeconfig.json
+D:\C#\DoWhileAndWhile\bin\Debug\net8.0\DoWhileAndWhile.dll
+D:\C#\DoWhileAndWhile\bin\Debug\net8.0\DoWhileAndWhile.pdb
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.AssemblyInfoInputs.cache
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.AssemblyInfo.cs
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.csproj.CoreCompileInputs.cache
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.dll
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\refint\DoWhileAndWhile.dll
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.pdb
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\DoWhileAndWhile.genruntimeconfig.cache
+D:\C#\DoWhileAndWhile\obj\Debug\net8.0\ref\DoWhileAndWhile.dll
